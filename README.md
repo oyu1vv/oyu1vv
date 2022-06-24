@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oyu1vv)](https://solved.ac/oyu1vv)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=oyu1vv&theme=warm)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=oyu1vv&theme=warm)](https://solved.ac/oyu1vv)
 
   
 </div>
